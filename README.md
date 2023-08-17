@@ -27,7 +27,7 @@ Check out [API LIVE DEMO](https://myhungarcaptianback.djinn08.repl.co/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/ajardinelc/Hunger-Captian.git
+1. Git Clone https://github.com/Djinn08/My_Hungar_Captian.git
 
 ```
 git clone 
